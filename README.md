@@ -6,6 +6,16 @@ ProofAnvil is a web platform for deliberate mathematics practice. I founded the 
 
 > The application source is private. This repository documents the public product and the engineering approach without exposing learner data, private infrastructure, operational credentials, or internal release records.
 
+## Product views
+
+![ProofAnvil training setup](./assets/proofanvil-train.jpg)
+
+![ProofAnvil course catalog](./assets/proofanvil-course-catalog.jpg)
+
+![ProofAnvil problem library](./assets/proofanvil-problem-library.jpg)
+
+These captures show public product surfaces and contain no customer or account data.
+
 ## The problem
 
 Serious mathematics practice needs more than an answer box. Learners need structured practice, useful feedback, durable progress, and a truthful distinction between independent work and work completed with assistance. The software also has to preserve privacy and correctness while remaining responsive enough to support daily study.
